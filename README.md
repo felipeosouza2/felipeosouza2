@@ -1,16 +1,39 @@
-## Hi there 👋
+👨‍💻 Olá! Seja bem-vindo ao meu GitHub!
 
-<!--
-**felipeosouza2/felipeosouza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim
+🎓 Estudante de Desenvolvimento de Sistemas.
+💻 Tenho interesse em desenvolvimento de software, aplicações web e soluções tecnológicas.
+🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+🗄️ Tenho conhecimentos em bancos de dados relacionais e ferramentas de gerenciamento de dados.
+🐧 Possuo conhecimentos básicos em administração e utilização de servidores Linux.
+🎯 Meu objetivo é evoluir continuamente como desenvolvedor e transformar ideias em soluções eficientes.
+🛠️ Tecnologias e habilidades
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Linguagens de programação
+JavaScript
+TypeScript
+Python
+
+🌐 Desenvolvimento Web
+HTML5
+CSS3
+
+🗄️ Bancos de dados
+Supabase
+MySQL
+PostgreSQL
+Firebird
+
+🐧 Sistemas e servidores
+Linux — conhecimentos básicos em ambiente de servidores.
+
+📚 Atualmente
+Aprimorando meus conhecimentos em desenvolvimento de sistemas.
+Explorando boas práticas de programação e organização de código.
+Desenvolvendo projetos para colocar meus conhecimentos em prática.
+Buscando aprender continuamente e acompanhar a evolução da tecnologia.
+🤝 Vamos nos conectar!
+Estou aberto a aprender, compartilhar conhecimentos, colaborar em projetos e trocar experiências com outros desenvolvedores.
+
+Obrigado por visitar meu perfil! 🚀
